@@ -1,2 +1,2 @@
 # nvim-config
-Personal nvim config
+Nvim config
